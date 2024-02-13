@@ -14,3 +14,5 @@ const sumArray = (numbers) =>{
 }
 
 console.log(sumArray(items))
+
+

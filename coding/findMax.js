@@ -10,3 +10,4 @@ const findMax = (numbers) => {
 }
 
 console.log(findMax(items))
+
